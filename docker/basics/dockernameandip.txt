@@ -1,0 +1,1 @@
+dev_ghost_blog:{docker_container.container_id.ip_address}
