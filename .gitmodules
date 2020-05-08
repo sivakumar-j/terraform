@@ -1,0 +1,3 @@
+[submodule "jenkins/ghost_docker_image"]
+	path = jenkins/ghost_docker_image
+	url = https://github.com/sivatest82/content-terraform-docker
